@@ -16,3 +16,5 @@ https://www.yasinshaw.com/articles/79
 https://insights.thoughtworks.cn/use-domain-events-in-microservices/
 
 http://zhangyi.xyz/categories/DDD/page/6/
+
+https://max.book118.com/html/2020/0321/6204023103002151.shtm
