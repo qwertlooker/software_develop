@@ -76,5 +76,10 @@ A Timeline of Milestones:
 来自 <https://www.vikingcodeschool.com/software-engineering-basics/a-brief-history-of-software-engineering> ![image](https://user-images.githubusercontent.com/1764593/116655233-5383ed00-a9bd-11eb-82d2-bd57d04f3d9c.png)
 
 
+来自 <https://intetics.com/blog/a-brief-history-of-software-development-methodologies> 
+![image](https://user-images.githubusercontent.com/1764593/116655292-6e566180-a9bd-11eb-8d7d-00545a555c97.png)
 
 
+http://a-lifelong-tester.cocolog-nifty.com/Chronology/ChronologyEng2.html
+
+http://a-lifelong-tester.cocolog-nifty.com/Chronology/Software-Testing-ChronologyEng-20120506.jpg
