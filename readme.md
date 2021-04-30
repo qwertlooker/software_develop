@@ -20,6 +20,16 @@ http://zhangyi.xyz/categories/DDD/page/6/
 https://max.book118.com/html/2020/0321/6204023103002151.shtm
 
 
+
+[利用事件风暴发现限界上下文（上篇）——《领域驱动设计15年》第三章 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/74620080)
+[利用事件风暴发现限界上下文（下篇）——《领域驱动设计15年》第三章 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/75637519)
+
+[领域驱动设计中国（DDD-China） - 知乎 (zhihu.com)](https://www.zhihu.com/column/ddd-china)
+
+
+
+
+
 [《基于DDD拆分服务的Workshop》总结 - 王磊的博客 (huawei.com)](http://3ms.huawei.com/km/blogs/details/5078273) 事件风暴。提出先梳理业务流程，然后进行事件风暴。   [thoughtworks驻IOT设备云cloudNative架构研讨 - CloudBU - 联接与协同服务产品部 - 3MS知识管理社区 (huawei.com)](http://3ms.huawei.com/km/groups/2978389/blogs/details/6611513#preview_attachment_box_6611513) 应用DDD工作坊对IOT设备进行分析。材料和产出物。   [【材料共享】第六期ERP 供应子组分享《供应领域DDD训战》，时间：2020/10/9，讲师：董香咀、张宇、田靖 - ERP连续性项目 - 3MS知识管理社区 (huawei.com)](http://3ms.huawei.com/km/groups/3944472/blogs/details/9393283) 供应领域实践DDD的例子。ppt 
 [DDD第2篇 - 子域与限界上下文 (yasinshaw.com)](https://www.yasinshaw.com/articles/79)  
 [Event Storming 工作坊：探索业务全景 - 简书 (jianshu.com)](https://www.jianshu.com/p/d79e020cad2d) 简单描述事件风暴用例探索业务全景的步骤。 除了领域事件、策略、命令、读模型、角色、外部系统等元素外。 还介绍了Hot Spot、 bottleneck、Opportunity等  
@@ -92,49 +102,49 @@ ERP连续性项目 - 3MS知识管理社区
 
 来自 \<<https://juejin.cn/post/6844904017399644168>\>
 
--   《[领域驱动设计(DDD)实践之路(一)](http://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247486441&idx=1&sn=2b617573cd40118cbb3978398bef7a24&chksm=ebd87b7bdcaff26d8d0d770840a494a110f40c53db8a714456ab098370beebf5b3c5b9abfd6b&scene=21#wechat_redirect)》
+《[领域驱动设计(DDD)实践之路(一)](http://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247486441&idx=1&sn=2b617573cd40118cbb3978398bef7a24&chksm=ebd87b7bdcaff26d8d0d770840a494a110f40c53db8a714456ab098370beebf5b3c5b9abfd6b&scene=21#wechat_redirect)》
     主要讲述了战略层面的DDD原则
 
-    -   《[领域驱动设计(DDD)实践之路(二)：事件驱动与CQRS](http://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247486689&idx=1&sn=3d73f1a466aa8270db39a84244df3ac5&chksm=ebd87c73dcaff5655494060e1afe52256627a996b993329fcf7fc9341457d39afab7bfa9e3e7&scene=21#wechat_redirect)》分析了如何应用事件来分离软件核心复杂度。
+《[领域驱动设计(DDD)实践之路(二)：事件驱动与CQRS](http://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247486689&idx=1&sn=3d73f1a466aa8270db39a84244df3ac5&chksm=ebd87c73dcaff5655494060e1afe52256627a996b993329fcf7fc9341457d39afab7bfa9e3e7&scene=21#wechat_redirect)》分析了如何应用事件来分离软件核心复杂度。
 
-        [领域驱动设计(DDD)实践之路(三)：如何设计聚合
+ [领域驱动设计(DDD)实践之路(三)：如何设计聚合
         (qq.com)](https://mp.weixin.qq.com/s?__biz=MzI4NjY4MTU5Nw==&mid=2247486850&idx=1&sn=442d44af822b9acf860f4345d538a52c&chksm=ebd87d10dcaff40683ab04ba02043b135d47020821aa9261ab48b270d3f6d1b42e3087a84049&scene=178&cur_album_id=1500542612812955651#rd)
 
-        vivo的实践。
+vivo的实践。
 
-        实体和值对象的区别、应用讲的很清楚。
+实体和值对象的区别、应用讲的很清楚。
 
-        举的例子比较贴合。
+举的例子比较贴合。
 
-        [领域驱动设计实现之路-InfoQ](https://www.infoq.cn/article/implementation-road-of-domain-driven-design/)
+[领域驱动设计实现之路-InfoQ](https://www.infoq.cn/article/implementation-road-of-domain-driven-design/)
 
-        实现领域驱动设计的翻译者写的一篇文章。
+实现领域驱动设计的翻译者写的一篇文章。
 
-        [求“领域驱动设计“ Java 项目教程？已全网搜索无果 -
-        V2EX](https://www.v2ex.com/t/768104)
+[求“领域驱动设计“ Java 项目教程？已全网搜索无果 -
+V2EX](https://www.v2ex.com/t/768104)
 
-        讨论了DDD理论和实际落地的难题。
+讨论了DDD理论和实际落地的难题。
 
-        有几个实际项目的例子
+有几个实际项目的例子
 
-        **阿里技术专家详解 DDD 系列- Domain Primitive**
+**阿里技术专家详解 DDD 系列- Domain Primitive**
 
-        来自 \<<https://developer.aliyun.com/article/716908>\>
+来自 \<<https://developer.aliyun.com/article/716908>\>
 
-        [阿里技术专家详解DDD系列 第二弹 - 应用架构-阿里云开发者社区
-        (aliyun.com)](https://developer.aliyun.com/article/719251)
+[阿里技术专家详解DDD系列 第二弹 - 应用架构-阿里云开发者社区
+(aliyun.com)](https://developer.aliyun.com/article/719251)
 
-        样例代码：https://github.com/Air433/dddbook
+样例代码：https://github.com/Air433/dddbook
 
-        [阿里技术专家详解DDD系列 第三讲 - Repository模式
-        (qq.com)](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
+[阿里技术专家详解DDD系列 第三讲 - Repository模式
+(qq.com)](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
 
-        [DDD系列第四讲：领域层设计规范
-        (juejin.cn)](https://juejin.cn/post/6912228908075057166)
+[DDD系列第四讲：领域层设计规范
+(juejin.cn)](https://juejin.cn/post/6912228908075057166)
 
-        阿里的这个系列有实际例子，结合一个游戏的例子讲的比较清楚。
+阿里的这个系列有实际例子，结合一个游戏的例子讲的比较清楚。
 
-        另外讲了很多注意点，贴合实战讲的比较好。
+另外讲了很多注意点，贴合实战讲的比较好。
 
 [收集一些不错的领域驱动设计(DDD)文章](https://www.ywlib.com/archives/some-articles-about-ddd.html)
 
