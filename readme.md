@@ -184,7 +184,7 @@ V2EX](https://www.v2ex.com/t/768104)
 [设计模式在外卖营销业务中的实践 - 美团技术团队
 (meituan.com)](https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html)
 
-[领域驱动设计（DDD）在美团点评业务系统的实践]（）https://developer.aliyun.com/article/319159）
+[领域驱动设计（DDD）在美团点评业务系统的实践](https://developer.aliyun.com/article/319159)
 
 
 [用领域驱动设计实现订单业务的重构](https://www.sohu.com/a/450931821_673711)
