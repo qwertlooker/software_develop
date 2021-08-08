@@ -187,7 +187,7 @@ V2EX](https://www.v2ex.com/t/768104)
 [领域驱动设计（DDD）在美团点评业务系统的实践](https://developer.aliyun.com/article/319159)
 
 
-[用领域驱动设计实现订单业务的重构](https://www.sohu.com/a/450931821_673711)
+[得到APP：用领域驱动设计实现订单业务的重构](https://www.sohu.com/a/450931821_673711)
 http://blog.itpub.net/31562044/viewspace-2644320/
 
 
