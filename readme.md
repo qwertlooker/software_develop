@@ -28,12 +28,6 @@ https://max.book118.com/html/2020/0321/6204023103002151.shtm
 [领域驱动设计中国（DDD-China） - 知乎 (zhihu.com)](https://www.zhihu.com/column/ddd-china)
 
 
-[《基于DDD拆分服务的Workshop》总结 - 王磊的博客 (huawei.com)](http://3ms.huawei.com/km/blogs/details/5078273) 事件风暴。提出先梳理业务流程，然后进行事件风暴。   
-
-[thoughtworks驻IOT设备云cloudNative架构研讨 - CloudBU - 联接与协同服务产品部 - 3MS知识管理社区 (huawei.com)](http://3ms.huawei.com/km/groups/2978389/blogs/details/6611513#preview_attachment_box_6611513) 应用DDD工作坊对IOT设备进行分析。材料和产出物。  
-
-[【材料共享】第六期ERP 供应子组分享《供应领域DDD训战》，时间：2020/10/9，讲师：董香咀、张宇、田靖 - ERP连续性项目 - 3MS知识管理社区 (huawei.com)](http://3ms.huawei.com/km/groups/3944472/blogs/details/9393283) 供应领域实践DDD的例子。ppt 
-
 [DDD第2篇 - 子域与限界上下文 (yasinshaw.com)](https://www.yasinshaw.com/articles/79)  
 
 [Event Storming 工作坊：探索业务全景 - 简书 (jianshu.com)](https://www.jianshu.com/p/d79e020cad2d) 简单描述事件风暴用例探索业务全景的步骤。 除了领域事件、策略、命令、读模型、角色、外部系统等元素外。 还介绍了Hot Spot、 bottleneck、Opportunity等  
@@ -45,14 +39,8 @@ https://max.book118.com/html/2020/0321/6204023103002151.shtm
 关于领域驱动的几篇不错的文章集合。
 
  [从“四色建模法”到“限界纸笔建模法” - ThoughtWorks洞见](https://insights.thoughtworks.cn/paper-pen-modeling/) 
- 用 “小画笔”绘画课外班（排课，报名，考勤）的例子，讲了“四色建模法”及由此的“限界纸笔建模法”。           
-[架构设计4+1视图实践分享(1)：我们怎么理解4+1 - 黄亮的博客 (huawei.com)](http://3ms.huawei.com/km/blogs/details/9705803) 视频   
-
-[架构设计4+1视图实践分享(2)：我们如何设计用例视图 - HongjieLiu的博客 (huawei.com)](http://3ms.huawei.com/km/blogs/details/9714139) 视频 
-
-[架构设计4+1视图实践分享(2)：我们如何设计用例视图 - 黄亮的博客 (huawei.com)](http://3ms.huawei.com/km/blogs/details/9705821) 文字     
-
-[架构设计4+1视图实践分享(3)：我们如何设计逻辑视图【By 赵晓光 黄亮】 - 黄亮的博客 (huawei.com)](http://3ms.huawei.com/km/blogs/details/9707149) 使用事件风暴的实际例子：智能家居 从事件风暴到逻辑模型。
+ 用 “小画笔”绘画课外班（排课，报名，考勤）的例子，讲了“四色建模法”及由此的“限界纸笔建模法”。    
+ 
 
 [领域驱动实战思考（一）：用TDD思想对DDD的协作设计过程进行基准化 \| 胡皓 - 枪炮与代码 (huhao.dev)](https://huhao.dev/posts/130bb570/) 对DDD进行了标准化，并且有材料分享和样例代码分享。 [GitHub - howiehu/ddd-architecture-samples](https://github.com/howiehu/ddd-architecture-samples)   
 
@@ -89,23 +77,7 @@ thoughtworks的顾问写的一个专栏，介绍DDD的概念和实践。有十�
 
 来自 \<<https://www.zhihu.com/people/jin-zhong-hao/columns>\>
 
-[《基于DDD拆分服务的Workshop》总结 - 王磊的博客
-(huawei.com)](http://3ms.huawei.com/km/blogs/details/5078273)
 
-事件风暴。提出先梳理业务流程，然后进行事件风暴。
-
-[thoughtworks驻IOT设备云cloudNative架构研讨 - CloudBU - 联接与协同服务产品部 -
-3MS知识管理社区
-(huawei.com)](http://3ms.huawei.com/km/groups/2978389/blogs/details/6611513#preview_attachment_box_6611513)
-
-应用DDD工作坊对IOT设备进行分析。材料和产出物。
-
-[【材料共享】第六期ERP
-供应子组分享《供应领域DDD训战》，时间：2020/10/9，讲师：董香咀、张宇、田靖 -
-ERP连续性项目 - 3MS知识管理社区
-(huawei.com)](http://3ms.huawei.com/km/groups/3944472/blogs/details/9393283)
-
-供应领域实践DDD的例子。ppt
 
 [ddd - 专题 - 简书 (jianshu.com)](https://www.jianshu.com/c/73cf31c7838c)
 
