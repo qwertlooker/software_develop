@@ -184,21 +184,23 @@ V2EX](https://www.v2ex.com/t/768104)
 [设计模式在外卖营销业务中的实践 - 美团技术团队
 (meituan.com)](https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html)
 
-[DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together – @hgraca
-(herbertograca.com)](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+[领域驱动设计（DDD）在美团点评业务系统的实践]（）https://developer.aliyun.com/article/319159）
+
 
 [用领域驱动设计实现订单业务的重构](https://www.sohu.com/a/450931821_673711)
 http://blog.itpub.net/31562044/viewspace-2644320/
 
 
 
+Clean art 来源
+
+[DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together – @hgraca
+(herbertograca.com)](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
+
 中文翻译：
 
 [17.清晰架构(01): 融合 DDD、洋葱架构、整洁架构、CQRS...(译) - 简书
 (jianshu.com)](https://www.jianshu.com/p/d3e8b9ac097b)
 
-
-
-Clean art 来源
 
 
