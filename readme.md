@@ -192,6 +192,10 @@ V2EX](https://www.v2ex.com/t/768104)
 [17.清晰架构(01): 融合 DDD、洋葱架构、整洁架构、CQRS...(译) - 简书
 (jianshu.com)](https://www.jianshu.com/p/d3e8b9ac097b)
 
+
+[用领域驱动设计实现订单业务的重构](https://www.sohu.com/a/450931821_673711)
+http://blog.itpub.net/31562044/viewspace-2644320/
+
 Clean art 来源
 
 
